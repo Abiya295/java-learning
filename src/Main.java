@@ -1,3 +1,4 @@
+//Adding more features
 import java.util.Scanner;
         class Char
         {
@@ -17,6 +18,7 @@ import java.util.Scanner;
                 {
                     System.out.print("Invalid Letter");
                 }
+
             }
         }
 
